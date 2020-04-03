@@ -1,1 +1,1 @@
-# Hello, CSCE 210
+Hello README
